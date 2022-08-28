@@ -1,11 +1,11 @@
-# Github Repo search app by Reactive Javascript(RXJS-7)
+# Github Repo search by Reactive Javascript(RXJS-7)
 
 This's a project that fellow the RXJS tutorial from:  
 https://github.com/ecmadao/Coding-Guide/blob/master/Notes/RxJS/%E6%8E%A2%E7%B4%A2RxJS-%E5%81%9A%E4%B8%80%E4%B8%AAgithub%E5%B0%8F%E5%BA%94%E7%94%A8.md  
 But the tutorial RXJS version 4 is too old  
 So I re-make a RXJS application by using RXJS-7  
 
-#### The Demo is at https://pang-lee.github.io/pang-lee.D3-USA_education_map.github.io/  
+#### The Demo is at https://pang-lee.github.io/RXJS_github_search.github.io/ 
   
   The all page is inside index.html  
   In js/index.js we build a observable object which and use debounce to delay your input  
