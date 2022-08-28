@@ -1,4 +1,4 @@
-# Github Repo search app by Reactive Javascript (RXJS-7)
+# Github Repo search app by Reactive Javascript(RXJS-7)
 
 This's a project that fellow the RXJS tutorial from:  
 https://github.com/ecmadao/Coding-Guide/blob/master/Notes/RxJS/%E6%8E%A2%E7%B4%A2RxJS-%E5%81%9A%E4%B8%80%E4%B8%AAgithub%E5%B0%8F%E5%BA%94%E7%94%A8.md  
